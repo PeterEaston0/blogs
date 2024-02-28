@@ -1,1 +1,1 @@
-This is Blogs.trisysglobal.net
+This is blogs.trisysglobal.net
